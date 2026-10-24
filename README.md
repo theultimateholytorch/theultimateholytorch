@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/theultimateholytorch/ida-script-dumper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ida-script-dumper-dark.svg"><img src="assets/project-ida-script-dumper-light.svg" width="49%" alt="ida-script-dumper"></picture></a>&nbsp;<a href="https://github.com/theultimateholytorch/thebigscriptsmyson"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-thebigscriptsmyson-dark.svg"><img src="assets/project-thebigscriptsmyson-light.svg" width="49%" alt="thebigscriptsmyson"></picture></a>
-
-<a href="https://github.com/theultimateholytorch/images"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-images-dark.svg"><img src="assets/project-images-light.svg" width="49%" alt="images"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
