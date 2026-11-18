@@ -1,5 +1,5 @@
 {
- "key": "bf9530aa",
+ "key": "183e0189",
  "stars": 1,
  "contributions": 42,
  "repos": 7,
@@ -107,9 +107,13 @@
    {
     "c": 0,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
     "today": true
    },
-   null,
    null,
    null,
    null
